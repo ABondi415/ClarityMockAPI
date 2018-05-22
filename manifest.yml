@@ -1,0 +1,4 @@
+applications:
+- name: clarity-mock-api
+  memory: 128M
+  instances: 1
