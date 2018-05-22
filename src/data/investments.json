@@ -1,0 +1,51 @@
+[
+  {
+    "id": "P2116",
+    "type": "task",
+    "name": "Innovation / R&D",
+    "description": "FNOL Watson",
+    "etc": "0.0"
+  },
+  {
+    "id": "P1234",
+    "type": "task",
+    "name": "PLW Discretionary",
+    "description": "Updates and improvements",
+    "etc": "0.0"
+  },
+  {
+    "id": "P0921",
+    "type": "task",
+    "name": "Mendix Hackathon",
+    "description": "Hackathon",
+    "etc": "0.0"
+  },
+  {
+    "id": "MISC",
+    "type": "other",
+    "name": "Administrative Time",
+    "description": "Time spent on: - Planning and preparation for non-project related meetings, performance assessments and managerial tasks - Attendance of non-project related meetings (e.g. section, department and company meetings) - Email clean-up - Help Desk communication regarding your own hardware, software, and virus issues",
+    "etc": ""
+  },
+  {
+    "id": "CBT",
+    "type": "other",
+    "name": "Company Benefit Time",
+    "description": "ONLY ERIE Employees can charge time to this. Time spent: - Blood donation - Bereavement - Jury Duty - LTD/STD/Family Leave - Sick Leave - Vacation - Break Time - Holiday Time - Approved ERIE Service Corps Activities (max. 7.5 hrs./yr.)",
+    "etc": ""
+  },
+  {
+    "id": "EDU",
+    "type": "other",
+    "name": "Non-Project Related Education",
+    "description": "ONLY ERIE Employees can charge time to this. Times spent: - Classes, conferences, and seminars - Corporate Education - Learning new software/techniques - SkillSoft - Webinars Note: Travel time is not to be entered on timesheets",
+    "etc": ""
+  },
+  {
+    "id": "MISC",
+    "type": "other",
+    "name": "Administrative Time",
+    "description": "Time spent: FTE: - General Knowledge Transfer - Mentoring / training a new employee or intern - Employee or intern being trained - Orientation of Augmented Staff Contractor: - Time spent to come up to speed with their assignment(s). Maximum time is 40 hours within the first week. Benefits: IT",
+    "etc": ""
+  }
+]

@@ -9,7 +9,7 @@
     "url": "https://github.com/ABondi415/ClarityMockAPI.git"
   },
   "engines": {
-    "node": ">=8.0.0"
+    "node": ">=4.3.2"
   },
   "scripts": {
     "deploy": "gcloud app deploy",
