@@ -1,0 +1,1 @@
+Simple mock API for retriving Clarity data.
